@@ -1,0 +1,6 @@
+E:\VS2015space\C#面向对象\_property\_property\bin\Debug\_property.exe.config
+E:\VS2015space\C#面向对象\_property\_property\bin\Debug\_property.exe
+E:\VS2015space\C#面向对象\_property\_property\bin\Debug\_property.pdb
+E:\VS2015space\C#面向对象\_property\_property\obj\Debug\_property.csprojResolveAssemblyReference.cache
+E:\VS2015space\C#面向对象\_property\_property\obj\Debug\_property.exe
+E:\VS2015space\C#面向对象\_property\_property\obj\Debug\_property.pdb
