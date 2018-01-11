@@ -1,0 +1,12 @@
+C:\Users\93985\Desktop\book11111\cnote\bin\Debug\cnote.exe.config
+C:\Users\93985\Desktop\book11111\cnote\bin\Debug\cnote.exe
+C:\Users\93985\Desktop\book11111\cnote\bin\Debug\cnote.pdb
+C:\Users\93985\Desktop\book11111\cnote\obj\Debug\cnote.csprojResolveAssemblyReference.cache
+C:\Users\93985\Desktop\book11111\cnote\obj\Debug\cnote.exe
+C:\Users\93985\Desktop\book11111\cnote\obj\Debug\cnote.pdb
+E:\C#\cnote\bin\Debug\cnote.exe.config
+E:\C#\cnote\obj\Debug\cnote.exe
+E:\C#\cnote\obj\Debug\cnote.pdb
+E:\C#\cnote\bin\Debug\cnote.exe
+E:\C#\cnote\bin\Debug\cnote.pdb
+E:\C#\cnote\obj\Debug\cnote.csprojResolveAssemblyReference.cache
