@@ -1,0 +1,10 @@
+E:\mygit\shiyanqi\shiyanqi\bin\Debug\shiyanqi.exe.config
+E:\mygit\shiyanqi\shiyanqi\bin\Debug\shiyanqi.exe
+E:\mygit\shiyanqi\shiyanqi\bin\Debug\shiyanqi.pdb
+E:\mygit\shiyanqi\shiyanqi\obj\Debug\shiyanqi.csprojResolveAssemblyReference.cache
+E:\mygit\shiyanqi\shiyanqi\obj\Debug\shiyanqi.addmune.resources
+E:\mygit\shiyanqi\shiyanqi\obj\Debug\shiyanqi.Form1.resources
+E:\mygit\shiyanqi\shiyanqi\obj\Debug\shiyanqi.Properties.Resources.resources
+E:\mygit\shiyanqi\shiyanqi\obj\Debug\shiyanqi.csproj.GenerateResource.Cache
+E:\mygit\shiyanqi\shiyanqi\obj\Debug\shiyanqi.exe
+E:\mygit\shiyanqi\shiyanqi\obj\Debug\shiyanqi.pdb
