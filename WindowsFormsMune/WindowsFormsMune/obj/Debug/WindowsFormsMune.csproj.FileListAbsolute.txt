@@ -1,0 +1,10 @@
+E:\mygit\WindowsFormsMune\WindowsFormsMune\bin\Debug\WindowsFormsMune.exe.config
+E:\mygit\WindowsFormsMune\WindowsFormsMune\bin\Debug\WindowsFormsMune.exe
+E:\mygit\WindowsFormsMune\WindowsFormsMune\bin\Debug\WindowsFormsMune.pdb
+E:\mygit\WindowsFormsMune\WindowsFormsMune\obj\Debug\WindowsFormsMune.csprojResolveAssemblyReference.cache
+E:\mygit\WindowsFormsMune\WindowsFormsMune\obj\Debug\WindowsFormsMune.addmune.resources
+E:\mygit\WindowsFormsMune\WindowsFormsMune\obj\Debug\WindowsFormsMune.Form1.resources
+E:\mygit\WindowsFormsMune\WindowsFormsMune\obj\Debug\WindowsFormsMune.Properties.Resources.resources
+E:\mygit\WindowsFormsMune\WindowsFormsMune\obj\Debug\WindowsFormsMune.csproj.GenerateResource.Cache
+E:\mygit\WindowsFormsMune\WindowsFormsMune\obj\Debug\WindowsFormsMune.exe
+E:\mygit\WindowsFormsMune\WindowsFormsMune\obj\Debug\WindowsFormsMune.pdb
